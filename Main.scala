@@ -26,6 +26,7 @@
  * To run the test (first compile: scalac *.scala), type at command line
  * scala Main_TestStreams
  * */
+
 object Main_TestStreams extends App {
 
     private val streamOperations = new StreamOperation

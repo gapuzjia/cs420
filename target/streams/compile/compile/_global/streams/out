@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\Jia Gapuz\Desktop\cs420-1\StreamOperation.scala:369:11: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : scala.collection.mutable.ArrayBuffer[Option[scala.collection.immutable.Vector[Int]]][0m
+[0m[[0m[31merror[0m] [0m[0m required: Vector[Vector[Int]][0m
+[0m[[0m[31merror[0m] [0m[0m      .map(vector => {[0m
+[0m[[0m[31merror[0m] [0m[0m          ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

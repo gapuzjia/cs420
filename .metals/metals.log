@@ -1580,3 +1580,40 @@ WARNING: Unmatched cancel notification for request id 3
 2025.05.02 14:11:02 INFO  no build target found for C:\Users\Jia Gapuz\Desktop\cs420-1\build.sbt. Using presentation compiler with project's scala-library version: 3.6.4
 May 02, 2025 2:11:30 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+2025.05.02 14:13:13 INFO  compiling cs420-1_d5c0a6989e (1 scala source)
+2025.05.02 14:13:15 INFO  running 'C:\Program Files\Eclipse Adoptium\jdk-21.0.7.6-hotspot\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\JIAGAP~1\AppData\Local\Temp\metals3858239199930319336\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2025.05.02 14:13:16 INFO  time: compiled cs420-1_d5c0a6989e in 2.92s
+2025.05.02 14:13:17 INFO  [info] welcome to sbt 1.10.11 (Eclipse Adoptium Java 21.0.7)
+2025.05.02 14:13:20 INFO  [info] loading settings for project cs420-1-build-build from metals.sbt...
+2025.05.02 14:13:20 INFO  [info] loading project definition from C:\Users\Jia Gapuz\Desktop\cs420-1\project\project
+2025.05.02 14:13:25 INFO  [info] loading settings for project cs420-1-build from metals.sbt...
+2025.05.02 14:13:25 INFO  [info] loading project definition from C:\Users\Jia Gapuz\Desktop\cs420-1\project
+2025.05.02 14:13:30 INFO  [success] Generated .bloop\cs420-1-build.json
+2025.05.02 14:13:30 INFO  [success] Total time: 4 s, completed May 2, 2025, 2:13:30 PM
+2025.05.02 14:13:32 INFO  [info] loading settings for project cs420-1 from build.sbt...
+2025.05.02 14:13:32 INFO  [info] set current project to cs420-1 (in build file:/C:/Users/Jia%20Gapuz/Desktop/cs420-1/)
+2025.05.02 14:13:32 INFO  [success] Generated .bloop\cs420-1.json
+2025.05.02 14:13:32 INFO  [success] Generated .bloop\cs420-1-test.json
+2025.05.02 14:13:33 INFO  [success] Total time: 1 s, completed May 2, 2025, 2:13:33 PM
+2025.05.02 14:13:34 INFO  time: ran 'sbt bloopInstall' in 18s
+2025.05.02 14:13:34 INFO  Shut down connection with build server.
+2025.05.02 14:13:34 INFO  Attempting to connect to the build server...
+2025.05.02 14:13:34 INFO  Found a Bloop server running
+2025.05.02 14:13:35 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Jia Gapuz\Desktop\cs420-1\.metals\bsp.trace.json or C:\Users\Jia Gapuz\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.05.02 14:13:38 INFO  Attempting to connect to the build server...
+2025.05.02 14:13:38 INFO  Found a Bloop server running
+2025.05.02 14:13:39 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\Jia Gapuz\Desktop\cs420-1\project\.metals\bsp.trace.json or C:\Users\Jia Gapuz\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.05.02 14:13:39 INFO  time: Connected to build server in 5.36s
+2025.05.02 14:13:39 INFO  Connected to Build server: Bloop v2.0.8
+2025.05.02 14:13:39 INFO  time: Imported build in 0.1s
+2025.05.02 14:13:39 WARN  2.13.12 is no longer supported in the current Metals versions, using the last known supported version 1.4.2
+2025.05.02 14:13:52 INFO  time: indexed workspace in 12s
+May 02, 2025 2:14:04 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 371
+2025.05.02 14:14:07 WARN  Could not find semantic tokens for: file:///C:/Users/Jia%20Gapuz/Desktop/cs420-1/TestScript.scala
+2025.05.02 14:14:10 WARN  Could not find semantic tokens for: file:///C:/Users/Jia%20Gapuz/Desktop/cs420-1/TestScript.scala
+2025.05.02 14:14:42 INFO  Shutting down server
+2025.05.02 14:14:42 INFO  shutting down Metals
+2025.05.02 14:14:42 INFO  Shut down connection with build server.
+2025.05.02 14:14:42 INFO  Shut down connection with build server.
+2025.05.02 14:14:42 INFO  Exiting server

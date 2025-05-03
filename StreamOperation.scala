@@ -2,6 +2,7 @@
 import java.util.{ArrayList, Arrays, List}
 import java.util.stream.Collectors
 import scala.collection.mutable.ArrayBuffer
+import scala.annotation.varargs
 
 class StreamOperation() {
   // Java examples
@@ -87,8 +88,8 @@ class StreamOperation() {
     // hint: flatMapping, apply distinct,
     // then use either sorted, sortBy, or sortWith for sorting
     // then convert to Vector to return
-    
-    Vector.empty // replace this with your implementation
+    val flattened = numbers_2d.flatten.sorted.toVector
+    return flattened
   }
 
   // Java
@@ -142,7 +143,13 @@ class StreamOperation() {
 
     // refer to averageOfAllElements_s on dealing with empty row / vector
 
-    Option.empty // replace this with your implementation
+    val flattened = numbers_2d.flatten // flatMap
+    flattened.length match {
+      // Some and None are subclasses of Option
+      case 0 => None // length of the combined array is zero
+      case _ => Some (flattened.max)
+    }
+
   }
 
   // Java
@@ -224,8 +231,16 @@ class StreamOperation() {
     // TODO
 
     // see hint in maxInEachRow_s
-
-    Vector.empty // replace this with your implementation
+    val avgs = numbers_2d
+      .map(vector => {
+        vector.nonEmpty match
+        {
+          case true => Some(vector.sum.toDouble/vector.size)
+          case false => None
+        }
+      }).toVector
+      
+    return avgs
   }
 
   /**
@@ -244,6 +259,20 @@ class StreamOperation() {
     // then if there are numbers in the vector bigger than 10,
     //   calculate for average
     //   otherwise, use None
+
+    val avgs = numbers_2d
+      .map(vector => {
+        vector.nonEmpty match
+        {
+          case true => {
+            val overTen = vector.filter(_ > 10)
+            Some(overTen.sum.toDouble/overTen.size)
+          }
+          case false => None
+        }
+      }).toVector
+      
+    return avgs
 
     Vector.empty // replace this with your implementation
   }
@@ -279,7 +308,18 @@ class StreamOperation() {
     //   use take method to grab the first single digit number
     //   otherwise, use None
 
-    Vector.empty // replace this with your implementation
+   val singleDigits = numbers_2d
+      .map(vector => {
+
+        val underTen = vector.filter(_ < 10)
+        underTen.nonEmpty match
+        {
+          case true => Some(underTen.head)
+          case false => None
+        }
+      }).toVector
+    
+    return singleDigits
   }
 
   // Java
@@ -313,7 +353,10 @@ class StreamOperation() {
 
     // hint: use filter and see existRowWithMultipleOf5_s above
 
-    Vector.empty // replace this with your implementation
+    numbers_2d
+      .filter(row => row.exists(_ % 5 == 0))
+        .toVector
+    
   }
 
   /**
@@ -329,7 +372,11 @@ class StreamOperation() {
     // sort each row in descending order, then
     //   use take method to grab the first two numbers
 
-    Vector.empty // replace this with your implementation
+    numbers_2d
+      .map(vector => {
+        vector.sorted(Ordering[Int].reverse).take(2)
+      }).toVector
+
   }
 
   /**
@@ -348,7 +395,12 @@ class StreamOperation() {
     // then sort in descending order, then
     // use take method to grab the first two numbers
 
-    Vector.empty // replace this with your implementation
+    numbers_2d
+      .map(vector => {
+        vector.filter(_ % 2 == 0).sorted(Ordering[Int].reverse).take(2)
+      }).toVector
+
+
   }
 
 }

@@ -1848,3 +1848,778 @@ WARNING: empty definition using pc, found symbol in pc:  (full report at: C:\Use
 2025.05.03 16:38:21 INFO  time: compiled cs420-1-test in 2.73s
 May 03, 2025 4:40:42 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+2025.05.04 10:44:17 INFO  Started: Metals version 1.5.2 in folders 'C:\Users\jiann\OneDrive\Desktop\cs420' for client Visual Studio Code 1.99.1.
+2025.05.04 10:44:21 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:45:19 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\Main.scala. Using presentation compiler with project's scala-library version: 3.3.5
+May 04, 2025 10:45:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+May 04, 2025 10:45:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+2025.05.04 10:45:20 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:45:19 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:45:20 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\Main.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:45:20 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:45:19 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:45:20 INFO  Attempting to connect to the build server...
+2025.05.04 10:45:20 INFO  No running Bloop server found, starting one.
+2025.05.04 10:45:19 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+May 04, 2025 10:45:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15
+2025.05.04 10:45:20 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:45:20 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:45:20 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+May 04, 2025 10:45:21 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 29
+May 04, 2025 10:45:21 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+2025.05.04 10:45:21 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+May 04, 2025 10:45:21 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 31
+2025.05.04 10:45:20 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:45:20 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:45:22 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+May 04, 2025 10:45:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 37
+2025.05.04 10:45:22 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:45:22 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+May 04, 2025 10:45:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 38
+2025.05.04 10:45:22 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:45:22 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+May 04, 2025 10:45:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 45
+2025.05.04 10:45:22 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:45:23 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:45:29 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\Main.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:45:32 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:46:39 INFO  Starting compilation server
+2025.05.04 10:46:42 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\jiann\OneDrive\Desktop\cs420\.metals\bsp.trace.json or C:\Users\jiann\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.05.04 10:46:42 WARN  Scala instance jar C:\Users\Jia Gapuz\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.12\scala-library-2.13.12.jar doesn't exist!
+2025.05.04 10:46:42 WARN  Scala instance jar C:\Users\Jia Gapuz\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-compiler\2.13.12\scala-compiler-2.13.12.jar doesn't exist!
+2025.05.04 10:46:42 WARN  Scala instance jar C:\Users\Jia Gapuz\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-reflect\2.13.12\scala-reflect-2.13.12.jar doesn't exist!
+2025.05.04 10:46:42 WARN  Scala instance jar C:\Users\Jia Gapuz\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.12\scala-library-2.13.12.jar doesn't exist!
+2025.05.04 10:46:42 WARN  Scala instance jar C:\Users\Jia Gapuz\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-compiler\2.13.12\scala-compiler-2.13.12.jar doesn't exist!
+2025.05.04 10:46:42 WARN  Scala instance jar C:\Users\Jia Gapuz\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-reflect\2.13.12\scala-reflect-2.13.12.jar doesn't exist!
+2025.05.04 10:46:42 WARN  Scala instance jar C:\Users\Jia Gapuz\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\io\github\java-diff-utils\java-diff-utils\4.12\java-diff-utils-4.12.jar doesn't exist!
+2025.05.04 10:46:42 WARN  Scala instance jar C:\Users\Jia Gapuz\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\jline\jline\3.22.0\jline-3.22.0.jar doesn't exist!
+2025.05.04 10:46:42 WARN  Scala instance jar C:\Users\Jia Gapuz\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\net\java\dev\jna\jna\5.13.0\jna-5.13.0.jar doesn't exist!
+2025.05.04 10:46:42 WARN  Scala instance jar C:\Users\Jia Gapuz\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\io\github\java-diff-utils\java-diff-utils\4.12\java-diff-utils-4.12.jar doesn't exist!
+2025.05.04 10:46:42 WARN  Scala instance jar C:\Users\Jia Gapuz\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\jline\jline\3.22.0\jline-3.22.0.jar doesn't exist!
+2025.05.04 10:46:42 WARN  Scala instance jar C:\Users\Jia Gapuz\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\net\java\dev\jna\jna\5.13.0\jna-5.13.0.jar doesn't exist!
+2025.05.04 10:46:42 ERROR C:\Users\jiann\AppData\Local\ScalaCli\data\bloop
+C:\Users\jiann\AppData\Local\ScalaCli\data\bloop
+aCli\data\bloop\daemon\output every 5 minutes
+WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+WARNING: sun.misc.Unsafe::objectFieldOffset has been called by monix.execution.internal.atomic.NormalJava8BoxedObject (file:/C:/Users/jiann/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/io/monix/monix-execution_2.12/3.2.0/monix-execution_2.12-3.2.0.jar)
+WARNING: Please consider reporting this to the maintainers of class monix.execution.internal.atomic.NormalJava8BoxedObject
+WARNING: sun.misc.Unsafe::objectFieldOffset will be removed in a future release
+Unable to load nailgun-version.properties.
+NGServer [UNKNOWN] started on local socket C:\Users\jiann\AppData\Local\ScalaCli\data\bloop\daemon\socket.
+WARNING: A restricted method in java.lang.System has been called
+WARNING: java.lang.System::loadLibrary has been called by dev.dirs.impl.WindowsForeign in an unnamed module (file:/C:/Users/jiann/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/io/get-coursier/util/directories/0.1.2/directories-0.1.2.jar)
+WARNING: Use --enable-native-access=ALL-UNNAMED to avoid a warning for callers in this module
+WARNING: Restricted methods will be blocked in a future release unless native access is enabled
+
+
+2025.05.04 10:46:42 ERROR Failed to connect with build server, no functionality will work.
+java.util.concurrent.ExecutionException: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: bloop.data.Project$ProjectReadException: Failed to load project from C:\Users\jiann\OneDrive\Desktop\cs420\.bloop\cs420-1.json
+	at bloop.data.Project$.fromBytesAndOrigin(Project.scala:266)
+	at bloop.engine.BuildLoader$.loadProject(BuildLoader.scala:264)
+	at bloop.engine.BuildLoader$.$anonfun$loadBuildIncrementally$3(BuildLoader.scala:59)
+	at monix.eval.internal.TaskRunLoop$.startFull(TaskRunLoop.scala:81)
+	at monix.eval.internal.TaskRestartCallback.syncOnSuccess(TaskRestartCallback.scala:101)
+	at monix.eval.internal.TaskRestartCallback.onSuccess(TaskRestartCallback.scala:74)
+	at monix.eval.internal.TaskShift$Register$$anon$1.run(TaskShift.scala:65)
+	at monix.execution.internal.InterceptRunnable.run(InterceptRunnable.scala:27)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619)
+	at java.base/java.lang.Thread.run(Thread.java:1447)
+Caused by: java.nio.file.NoSuchFileException: C:\Users\Jia Gapuz\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.12\scala-library-2.13.12.jar
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileAttributeViews$Basic.readAttributes(WindowsFileAttributeViews.java:52)
+	at java.base/sun.nio.fs.WindowsFileAttributeViews$Basic.readAttributes(WindowsFileAttributeViews.java:38)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.readAttributes(WindowsFileSystemProvider.java:195)
+	at java.base/java.nio.file.Files.readAttributes(Files.java:1699)
+	at bloop.ScalaInstance.$anonfun$hashCode$1(ScalaInstance.scala:114)
+	at scala.collection.TraversableLike.$anonfun$map$1(TraversableLike.scala:286)
+	at scala.collection.IndexedSeqOptimized.foreach(IndexedSeqOptimized.scala:36)
+	at scala.collection.IndexedSeqOptimized.foreach$(IndexedSeqOptimized.scala:33)
+	at scala.collection.mutable.WrappedArray.foreach(WrappedArray.scala:38)
+	at scala.collection.TraversableLike.map(TraversableLike.scala:286)
+	at scala.collection.TraversableLike.map$(TraversableLike.scala:279)
+	at scala.collection.AbstractTraversable.map(Traversable.scala:108)
+	at bloop.ScalaInstance.<init>(ScalaInstance.scala:110)
+	at bloop.ScalaInstance$.newInstance$1(ScalaInstance.scala:198)
+	at bloop.ScalaInstance$.$anonfun$apply$9(ScalaInstance.scala:204)
+	at java.base/java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1724)
+	at bloop.ScalaInstance$.apply(ScalaInstance.scala:204)
+	at bloop.data.Project$.$anonfun$fromConfig$1(Project.scala:288)
+	at scala.Option.flatMap(Option.scala:271)
+	at bloop.data.Project$.fromConfig(Project.scala:277)
+	at bloop.data.Project$.fromBytesAndOrigin(Project.scala:260)
+	... 10 more
+
+	at java.util.concurrent.CompletableFuture.wrapInExecutionException(CompletableFuture.java:347)
+	at java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:442)
+	at java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2142)
+	at scala.meta.internal.metals.BuildServerConnection$.initialize(BuildServerConnection.scala:752)
+	at scala.meta.internal.metals.BuildServerConnection$.$anonfun$fromSockets$1(BuildServerConnection.scala:627)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619)
+	at java.lang.Thread.run(Thread.java:1447)
+Caused by: org.eclipse.lsp4j.jsonrpc.ResponseErrorException: bloop.data.Project$ProjectReadException: Failed to load project from C:\Users\jiann\OneDrive\Desktop\cs420\.bloop\cs420-1.json
+	at bloop.data.Project$.fromBytesAndOrigin(Project.scala:266)
+	at bloop.engine.BuildLoader$.loadProject(BuildLoader.scala:264)
+	at bloop.engine.BuildLoader$.$anonfun$loadBuildIncrementally$3(BuildLoader.scala:59)
+	at monix.eval.internal.TaskRunLoop$.startFull(TaskRunLoop.scala:81)
+	at monix.eval.internal.TaskRestartCallback.syncOnSuccess(TaskRestartCallback.scala:101)
+	at monix.eval.internal.TaskRestartCallback.onSuccess(TaskRestartCallback.scala:74)
+	at monix.eval.internal.TaskShift$Register$$anon$1.run(TaskShift.scala:65)
+	at monix.execution.internal.InterceptRunnable.run(InterceptRunnable.scala:27)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619)
+	at java.base/java.lang.Thread.run(Thread.java:1447)
+Caused by: java.nio.file.NoSuchFileException: C:\Users\Jia Gapuz\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.12\scala-library-2.13.12.jar
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileAttributeViews$Basic.readAttributes(WindowsFileAttributeViews.java:52)
+	at java.base/sun.nio.fs.WindowsFileAttributeViews$Basic.readAttributes(WindowsFileAttributeViews.java:38)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.readAttributes(WindowsFileSystemProvider.java:195)
+	at java.base/java.nio.file.Files.readAttributes(Files.java:1699)
+	at bloop.ScalaInstance.$anonfun$hashCode$1(ScalaInstance.scala:114)
+	at scala.collection.TraversableLike.$anonfun$map$1(TraversableLike.scala:286)
+	at scala.collection.IndexedSeqOptimized.foreach(IndexedSeqOptimized.scala:36)
+	at scala.collection.IndexedSeqOptimized.foreach$(IndexedSeqOptimized.scala:33)
+	at scala.collection.mutable.WrappedArray.foreach(WrappedArray.scala:38)
+	at scala.collection.TraversableLike.map(TraversableLike.scala:286)
+	at scala.collection.TraversableLike.map$(TraversableLike.scala:279)
+	at scala.collection.AbstractTraversable.map(Traversable.scala:108)
+	at bloop.ScalaInstance.<init>(ScalaInstance.scala:110)
+	at bloop.ScalaInstance$.newInstance$1(ScalaInstance.scala:198)
+	at bloop.ScalaInstance$.$anonfun$apply$9(ScalaInstance.scala:204)
+	at java.base/java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1724)
+	at bloop.ScalaInstance$.apply(ScalaInstance.scala:204)
+	at bloop.data.Project$.$anonfun$fromConfig$1(Project.scala:288)
+	at scala.Option.flatMap(Option.scala:271)
+	at bloop.data.Project$.fromConfig(Project.scala:277)
+	at bloop.data.Project$.fromBytesAndOrigin(Project.scala:260)
+	... 10 more
+
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:204)
+	at scala.meta.internal.metals.RequestMonitorImpl$$anon$1.consume(ServerLivenessMonitor.scala:41)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619)
+	at java.lang.Thread.run(Thread.java:1447)
+
+2025.05.04 10:46:42 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:46:42 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\Main.scala
+2025.05.04 10:46:42 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:46:42 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:46:42 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:46:42 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\Main.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:46:43 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\Main.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:46:43 INFO  time: code lens generation in 1.23s
+2025.05.04 10:46:43 INFO  time: code lens generation in 1.4s
+2025.05.04 10:46:43 INFO  time: code lens generation in 1.4s
+2025.05.04 10:46:43 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:46:44 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\Main.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:52:45 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:52:45 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:53:35 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:53:37 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\Main.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:53:46 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:53:53 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:53:56 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:53:56 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:53:56 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:53:59 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+May 04, 2025 10:53:59 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\jiann\OneDrive\Desktop\cs420\.metals\.reports\metals-full\2025-05-04\r_empty-definition_10-53-59-648.md)
+2025.05.04 10:54:03 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:04 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:07 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:09 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:09 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:11 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:11 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:11 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:11 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:11 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:11 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:12 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:12 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:12 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:12 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:12 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:12 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:12 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:12 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+May 04, 2025 10:54:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 108
+2025.05.04 10:54:12 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:12 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:12 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+May 04, 2025 10:54:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 110
+2025.05.04 10:54:12 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:12 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+May 04, 2025 10:54:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 114
+2025.05.04 10:54:13 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+May 04, 2025 10:54:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 115
+2025.05.04 10:54:13 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+May 04, 2025 10:54:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 116
+2025.05.04 10:54:13 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+May 04, 2025 10:54:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 117
+2025.05.04 10:54:13 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:13 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+May 04, 2025 10:54:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 119
+2025.05.04 10:54:13 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+May 04, 2025 10:54:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 120
+2025.05.04 10:54:13 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+May 04, 2025 10:54:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 121
+2025.05.04 10:54:13 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:13 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:14 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:14 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:14 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:14 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:16 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:16 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:16 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:16 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:17 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:18 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:17 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:19 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:19 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:20 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:22 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:22 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:22 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:23 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:23 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:23 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:24 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:24 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:24 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:24 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:26 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:26 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:27 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:27 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:27 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:27 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:28 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:28 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:28 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:28 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:28 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:30 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:31 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:33 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:47 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:47 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:47 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:48 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:55 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:55 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:55 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:56 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:54:56 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:55:03 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:55:03 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+May 04, 2025 10:55:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 233
+2025.05.04 10:55:03 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:55:04 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:55:04 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:55:04 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:55:04 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:55:05 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:55:05 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:55:08 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:55:08 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:55:08 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:55:09 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:55:10 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:55:10 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:55:10 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:55:11 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:55:21 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:55:23 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:55:23 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:55:28 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:55:28 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:55:29 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:55:33 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:55:33 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:55:37 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:55:39 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:55:39 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:55:40 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:55:41 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+May 04, 2025 10:55:42 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\jiann\OneDrive\Desktop\cs420\.metals\.reports\metals-full\2025-05-04\r_empty-definition_10-53-59-648.md)
+2025.05.04 10:55:49 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:49 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:55:49 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:49 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:49 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:55:49 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:49 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:49 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:49 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:50 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:49 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:49 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:49 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:49 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:49 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:50 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:50 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:50 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:49 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:50 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:50 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:50 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:50 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:50 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:50 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:50 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:49 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:50 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:50 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:50 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:50 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:50 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:50 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:49 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:50 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:50 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:50 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:50 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:50 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:51 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:55:50 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:50 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:50 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:50 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:51 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:50 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:50 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:51 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:50 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:51 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:51 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:50 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:50 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:51 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:51 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:50 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:51 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:50 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:51 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:51 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:51 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:51 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:51 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:51 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:50 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:55:51 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:52 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:52 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:51 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:52 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:52 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:52 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:52 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:51 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:52 INFO  running 'C:\Program Files\Java\jdk-24\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\jiann\AppData\Local\Temp\metals16494276226746571814\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2025.05.04 10:55:52 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:52 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:52 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:52 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:51 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:52 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:52 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:52 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:52 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:52 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:52 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:52 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:52 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:52 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:52 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:52 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:52 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:55:52 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:52 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:52 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:52 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:52 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:52 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:52 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:53 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:52 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:53 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:53 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:52 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:53 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:53 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:53 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:52 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:53 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:53 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:53 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:53 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:53 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:55:53 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:53 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:53 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:53 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:53 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:53 WARN  no build target for: C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala
+2025.05.04 10:55:54 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:55:54 ERROR WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+2025.05.04 10:55:54 ERROR WARNING: sun.misc.Unsafe::arrayBaseOffset has been called by net.openhft.hashing.UnsafeAccess (file:/C:/Users/jiann/.sbt/boot/scala-2.12.20/org.scala-sbt/sbt/1.10.11/zero-allocation-hashing-0.16.jar)
+2025.05.04 10:55:54 ERROR WARNING: Please consider reporting this to the maintainers of class net.openhft.hashing.UnsafeAccess
+2025.05.04 10:55:54 ERROR WARNING: sun.misc.Unsafe::arrayBaseOffset will be removed in a future release
+2025.05.04 10:55:54 ERROR WARNING: A restricted method in java.lang.System has been called
+2025.05.04 10:55:54 ERROR WARNING: java.lang.System::load has been called by com.sun.jna.Native in an unnamed module (file:/C:/Users/jiann/.sbt/boot/scala-2.12.20/org.scala-sbt/sbt/1.10.11/jna-5.12.0.jar)
+2025.05.04 10:55:54 ERROR WARNING: Use --enable-native-access=ALL-UNNAMED to avoid a warning for callers in this module
+2025.05.04 10:55:54 ERROR WARNING: Restricted methods will be blocked in a future release unless native access is enabled
+2025.05.04 10:55:54 ERROR 
+2025.05.04 10:55:57 INFO  [info] welcome to sbt 1.10.11 (Oracle Corporation Java 24.0.1)
+2025.05.04 10:55:57 INFO  [info] loading settings for project cs420-build-build from metals.sbt...
+2025.05.04 10:55:59 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:55:59 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:56:00 INFO  [info] loading project definition from C:\Users\jiann\OneDrive\Desktop\cs420\project\project
+2025.05.04 10:55:59 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+May 04, 2025 10:56:00 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\jiann\OneDrive\Desktop\cs420\.metals\.reports\metals-full\2025-05-04\r_empty-definition_10-53-59-648.md)
+2025.05.04 10:56:01 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:56:01 INFO  [info] loading settings for project cs420-build from metals.sbt...
+2025.05.04 10:56:01 INFO  [info] loading project definition from C:\Users\jiann\OneDrive\Desktop\cs420\project
+2025.05.04 10:56:01 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:56:01 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:56:01 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:56:02 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:56:02 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:56:02 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:56:02 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:56:03 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:56:04 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:56:04 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:56:04 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:56:04 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:56:04 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:56:04 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:56:04 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:56:04 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:56:04 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+May 04, 2025 10:56:05 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\jiann\OneDrive\Desktop\cs420\.metals\.reports\metals-full\2025-05-04\r_empty-definition_10-53-59-648.md)
+2025.05.04 10:56:04 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:56:05 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+May 04, 2025 10:56:06 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\jiann\OneDrive\Desktop\cs420\.metals\.reports\metals-full\2025-05-04\r_empty-definition_10-53-59-648.md)
+2025.05.04 10:56:06 INFO  [success] Generated .bloop\cs420-build.json
+2025.05.04 10:56:06 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:56:06 INFO  [success] Total time: 5 s, completed May 4, 2025, 10:56:07 AM
+2025.05.04 10:56:06 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:56:06 INFO  [info] loading settings for project cs420 from build.sbt...
+2025.05.04 10:56:07 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:56:06 INFO  [info] set current project to cs420-1 (in build file:/C:/Users/jiann/OneDrive/Desktop/cs420/)
+2025.05.04 10:56:07 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:56:07 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:56:07 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:56:08 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:56:08 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:56:08 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:56:08 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:56:08 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:56:07 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:56:08 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:56:08 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:56:14 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:56:16 INFO  [success] Generated .bloop\cs420-test.json
+2025.05.04 10:56:16 INFO  [success] Generated .bloop\cs420.json
+2025.05.04 10:56:16 INFO  [warn] Removed stale C:\Users\jiann\OneDrive\Desktop\cs420\.bloop\cs420-1.json
+2025.05.04 10:56:16 INFO  [warn] Removed stale C:\Users\jiann\OneDrive\Desktop\cs420\.bloop\cs420-1-test.json
+2025.05.04 10:56:16 INFO  [success] Total time: 9 s, completed May 4, 2025, 10:56:16 AM
+2025.05.04 10:56:17 INFO  time: ran 'sbt bloopInstall' in 24s
+2025.05.04 10:56:17 INFO  Attempting to connect to the build server...
+2025.05.04 10:56:17 INFO  Found a Bloop server running
+2025.05.04 10:56:17 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\jiann\OneDrive\Desktop\cs420\.metals\bsp.trace.json or C:\Users\jiann\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.05.04 10:56:18 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 10:56:18 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+May 04, 2025 10:56:19 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\jiann\OneDrive\Desktop\cs420\.metals\.reports\metals-full\2025-05-04\r_empty-definition_10-53-59-648.md)
+2025.05.04 10:56:37 ERROR Timeout waiting for 'build/initialize' response
+2025.05.04 10:56:37 WARN  Retrying connection to the build server Bloop
+2025.05.04 10:56:37 INFO  Found a Bloop server running
+2025.05.04 10:56:37 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\jiann\OneDrive\Desktop\cs420\.metals\bsp.trace.json or C:\Users\jiann\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.05.04 10:56:50 INFO  Attempting to connect to the build server...
+2025.05.04 10:56:50 INFO  Found a Bloop server running
+2025.05.04 10:56:50 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\jiann\OneDrive\Desktop\cs420\project\.metals\bsp.trace.json or C:\Users\jiann\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.05.04 10:57:10 INFO  time: Connected to build server in 53s
+2025.05.04 10:57:10 INFO  Connected to Build server: Bloop v2.0.9
+2025.05.04 10:57:10 INFO  time: Imported build in 0.24s
+2025.05.04 10:57:31 WARN  2.13.12 is no longer supported in the current Metals versions, using the last known supported version 1.4.2
+May 04, 2025 10:58:08 AM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: Java indexer failed with and exception. (full report at: C:\Users\jiann\OneDrive\Desktop\cs420\.metals\.reports\metals-full\2025-05-04\r_failed-idex-java_10-58-08-217.md)
+2025.05.04 10:58:26 INFO  time: indexed workspace in 1m15s
+2025.05.04 10:58:27 INFO  compiling cs420 (3 scala sources)
+2025.05.04 10:58:34 INFO  compiling cs420-test (3 scala sources)
+2025.05.04 10:58:34 INFO  time: compiled cs420 in 8.1s
+2025.05.04 10:58:37 INFO  time: compiled cs420-test in 2.62s
+2025.05.04 10:58:37 INFO  skipping build import with status 'Installed'
+2025.05.04 10:58:37 INFO  Disconnecting from Bloop session...
+2025.05.04 10:58:37 INFO  Shut down connection with build server.
+2025.05.04 10:58:37 INFO  Shut down connection with build server.
+2025.05.04 10:58:37 INFO  Attempting to connect to the build server...
+2025.05.04 10:58:37 INFO  Found a Bloop server running
+May 04, 2025 10:58:37 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\jiann\OneDrive\Desktop\cs420\.metals\.reports\metals-full\2025-05-04\r_compiler-error_(cs420)_10-58-37-750.md
+2025.05.04 10:58:37 WARN  Could not find semantic tokens for: file:///C:/Users/jiann/OneDrive/Desktop/cs420/StreamOperation.scala
+2025.05.04 10:58:37 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\jiann\OneDrive\Desktop\cs420\.metals\bsp.trace.json or C:\Users\jiann\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.05.04 10:58:38 INFO  Attempting to connect to the build server...
+2025.05.04 10:58:38 INFO  Found a Bloop server running
+May 04, 2025 10:58:39 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 420
+May 04, 2025 10:58:39 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 422
+May 04, 2025 10:58:40 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 428
+2025.05.04 10:58:40 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\jiann\OneDrive\Desktop\cs420\project\.metals\bsp.trace.json or C:\Users\jiann\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.05.04 10:58:40 INFO  time: Connected to build server in 3.1s
+2025.05.04 10:58:40 INFO  Connected to Build server: Bloop v2.0.9
+May 04, 2025 10:58:40 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 430
+2025.05.04 10:58:41 INFO  time: Imported build in 0.26s
+2025.05.04 10:58:41 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 2.13.16
+May 04, 2025 10:58:41 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 443
+May 04, 2025 10:58:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 450
+May 04, 2025 10:58:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 451
+May 04, 2025 10:58:42 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 458
+May 04, 2025 10:58:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 471
+May 04, 2025 10:58:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 477
+May 04, 2025 10:58:45 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 484
+2025.05.04 10:58:48 INFO  time: indexed workspace in 7.58s
+2025.05.04 10:59:05 INFO  skipping build import with status 'Installed'
+2025.05.04 10:59:05 INFO  Disconnecting from Bloop session...
+2025.05.04 10:59:05 INFO  Shut down connection with build server.
+2025.05.04 10:59:05 INFO  Shut down connection with build server.
+2025.05.04 10:59:05 INFO  Cancelling compilation on Bloop server
+2025.05.04 10:59:05 INFO  Scala main classes not supported by server
+2025.05.04 10:59:05 INFO  Scala test classes not supported by server
+2025.05.04 10:59:05 INFO  Attempting to connect to the build server...
+2025.05.04 10:59:05 INFO  Found a Bloop server running
+2025.05.04 10:59:05 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\jiann\OneDrive\Desktop\cs420\.metals\bsp.trace.json or C:\Users\jiann\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.05.04 10:59:05 INFO  Attempting to connect to the build server...
+2025.05.04 10:59:05 INFO  Found a Bloop server running
+2025.05.04 10:59:06 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\jiann\OneDrive\Desktop\cs420\project\.metals\bsp.trace.json or C:\Users\jiann\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.05.04 10:59:06 INFO  time: Connected to build server in 1.28s
+2025.05.04 10:59:06 INFO  Connected to Build server: Bloop v2.0.9
+2025.05.04 10:59:08 INFO  time: indexed workspace in 2.24s
+2025.05.04 11:00:08 INFO  skipping build import with status 'Installed'
+2025.05.04 11:00:08 INFO  Disconnecting from Bloop session...
+2025.05.04 11:00:08 INFO  Shut down connection with build server.
+2025.05.04 11:00:08 INFO  Shut down connection with build server.
+2025.05.04 11:00:08 INFO  Cancelling compilation on Bloop server
+2025.05.04 11:00:08 INFO  Scala test classes not supported by server
+2025.05.04 11:00:08 INFO  Scala main classes not supported by server
+2025.05.04 11:00:08 INFO  Attempting to connect to the build server...
+2025.05.04 11:00:08 INFO  Found a Bloop server running
+2025.05.04 11:00:08 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\jiann\OneDrive\Desktop\cs420\.metals\bsp.trace.json or C:\Users\jiann\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.05.04 11:00:09 INFO  Attempting to connect to the build server...
+2025.05.04 11:00:09 INFO  Found a Bloop server running
+2025.05.04 11:00:10 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\jiann\OneDrive\Desktop\cs420\project\.metals\bsp.trace.json or C:\Users\jiann\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.05.04 11:00:09 INFO  time: Connected to build server in 1.26s
+2025.05.04 11:00:09 INFO  Connected to Build server: Bloop v2.0.9
+2025.05.04 11:00:12 INFO  time: indexed workspace in 2.52s
+2025.05.04 11:00:12 INFO  compiling cs420 (1 scala source)
+2025.05.04 11:00:17 INFO  compiling cs420-test (1 scala source)
+2025.05.04 11:00:17 INFO  time: compiled cs420 in 4.83s
+2025.05.04 11:00:19 INFO  time: compiled cs420-test in 1.49s
+May 04, 2025 11:02:24 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 684
+May 04, 2025 11:02:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 781
+May 04, 2025 11:02:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 782
+May 04, 2025 11:02:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 783
+May 04, 2025 11:02:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 784
+May 04, 2025 11:02:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 779
+May 04, 2025 11:02:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 785
+May 04, 2025 11:02:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 807
+May 04, 2025 11:02:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 817
+May 04, 2025 11:02:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 818
+May 04, 2025 11:02:58 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 824
+May 04, 2025 11:02:59 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 837
+May 04, 2025 11:02:59 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 839
+May 04, 2025 11:03:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 851
+May 04, 2025 11:03:01 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 855
+May 04, 2025 11:03:01 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 860
+May 04, 2025 11:03:01 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 861
+May 04, 2025 11:03:02 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 865
+May 04, 2025 11:03:03 AM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: Range [7675, 7675 + -1) out of bounds for length 10985
+May 04, 2025 11:03:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 886
+May 04, 2025 11:03:04 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 893
+May 04, 2025 11:03:05 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 898
+May 04, 2025 11:03:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 931
+2025.05.04 11:03:38 INFO  skipping build import with status 'Installed'
+2025.05.04 11:03:38 INFO  Disconnecting from Bloop session...
+2025.05.04 11:03:38 INFO  Shut down connection with build server.
+2025.05.04 11:03:38 INFO  Shut down connection with build server.
+2025.05.04 11:03:38 INFO  Cancelling compilation on Bloop server
+2025.05.04 11:03:38 INFO  Attempting to connect to the build server...
+2025.05.04 11:03:38 INFO  Found a Bloop server running
+2025.05.04 11:03:38 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\jiann\OneDrive\Desktop\cs420\.metals\bsp.trace.json or C:\Users\jiann\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.05.04 11:03:39 INFO  Attempting to connect to the build server...
+2025.05.04 11:03:39 INFO  Found a Bloop server running
+2025.05.04 11:03:40 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\jiann\OneDrive\Desktop\cs420\project\.metals\bsp.trace.json or C:\Users\jiann\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.05.04 11:03:39 INFO  time: Connected to build server in 1.18s
+2025.05.04 11:03:39 INFO  Connected to Build server: Bloop v2.0.9
+2025.05.04 11:03:43 INFO  time: indexed workspace in 3.07s
+2025.05.04 11:03:43 INFO  compiling cs420 (1 scala source)
+2025.05.04 11:03:49 INFO  compiling cs420-test (1 scala source)
+2025.05.04 11:03:49 INFO  time: compiled cs420 in 6.45s
+2025.05.04 11:03:52 INFO  time: compiled cs420-test in 2.42s
+2025.05.04 11:05:39 INFO  Shutting down server
+2025.05.04 11:05:39 INFO  shutting down Metals
+2025.05.04 11:05:39 INFO  Shut down connection with build server.
+2025.05.04 11:05:39 INFO  Shut down connection with build server.
+2025.05.04 11:05:39 INFO  Exiting server
+2025.05.04 11:05:58 INFO  Started: Metals version 1.5.2 in folders 'C:\Users\jiann\OneDrive\Desktop\cs420' for client Visual Studio Code 1.99.1.
+2025.05.04 11:05:59 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 11:06:04 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 11:06:04 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 11:06:04 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 11:06:04 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 11:06:04 INFO  Attempting to connect to the build server...
+2025.05.04 11:06:04 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 11:06:04 INFO  Found a Bloop server running
+2025.05.04 11:06:04 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 11:06:04 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 11:06:04 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 11:06:04 INFO  no build target found for C:\Users\jiann\OneDrive\Desktop\cs420\StreamOperation.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.04 11:06:04 INFO  Shutting down server
+2025.05.04 11:06:04 INFO  shutting down Metals
+java.util.concurrent.RejectedExecutionException: Task Future(<not completed>) rejected from java.util.concurrent.ThreadPoolExecutor@7ac7a4e4[Shutting down, pool size = 3, active threads = 3, queued tasks = 0, completed tasks = 147]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$AbortPolicy.rejectedExecution(ThreadPoolExecutor.java:2027)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.reject(ThreadPoolExecutor.java:792)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.execute(ThreadPoolExecutor.java:1328)
+	at scala.concurrent.impl.ExecutionContextImpl.execute(ExecutionContextImpl.scala:21)
+	at scala.concurrent.impl.Promise$Transformation.submitWithValue(Promise.scala:429)
+	at scala.concurrent.impl.Promise$DefaultPromise.submitWithValue(Promise.scala:338)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete0(Promise.scala:285)
+	at scala.concurrent.impl.Promise$Transformation.handleFailure(Promise.scala:444)
+	at scala.concurrent.impl.Promise$Transformation.submitWithValue(Promise.scala:435)
+	at scala.concurrent.impl.Promise$DefaultPromise.submitWithValue(Promise.scala:338)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete0(Promise.scala:285)
+	at scala.concurrent.impl.Promise$Transformation.handleFailure(Promise.scala:444)
+	at scala.concurrent.impl.Promise$Transformation.submitWithValue(Promise.scala:435)
+	at scala.concurrent.impl.Promise$DefaultPromise.submitWithValue(Promise.scala:338)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete0(Promise.scala:285)
+	at scala.concurrent.impl.Promise$Transformation.handleFailure(Promise.scala:444)
+	at scala.concurrent.impl.Promise$Transformation.submitWithValue(Promise.scala:435)
+	at scala.concurrent.impl.Promise$DefaultPromise.submitWithValue(Promise.scala:338)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete0(Promise.scala:285)
+	at scala.concurrent.impl.Promise$Transformation.handleFailure(Promise.scala:444)
+	at scala.concurrent.impl.Promise$Transformation.submitWithValue(Promise.scala:435)
+	at scala.concurrent.impl.Promise$DefaultPromise.submitWithValue(Promise.scala:338)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete0(Promise.scala:285)
+	at scala.concurrent.impl.Promise$Transformation.handleFailure(Promise.scala:444)
+	at scala.concurrent.impl.Promise$Transformation.submitWithValue(Promise.scala:435)
+	at scala.concurrent.impl.Promise$DefaultPromise.submitWithValue(Promise.scala:338)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete0(Promise.scala:285)
+	at scala.concurrent.impl.Promise$Transformation.handleFailure(Promise.scala:444)
+	at scala.concurrent.impl.Promise$Transformation.submitWithValue(Promise.scala:435)
+	at scala.concurrent.impl.Promise$DefaultPromise.submitWithValue(Promise.scala:338)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete0(Promise.scala:285)
+	at scala.concurrent.impl.Promise$Transformation.handleFailure(Promise.scala:444)
+	at scala.concurrent.impl.Promise$Transformation.submitWithValue(Promise.scala:435)
+	at scala.concurrent.impl.Promise$DefaultPromise.submitWithValue(Promise.scala:338)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete0(Promise.scala:285)
+	at scala.concurrent.impl.Promise$Transformation.handleFailure(Promise.scala:444)
+	at scala.concurrent.impl.Promise$Transformation.submitWithValue(Promise.scala:435)
+	at scala.concurrent.impl.Promise$DefaultPromise.submitWithValue(Promise.scala:338)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete0(Promise.scala:285)
+	at scala.concurrent.impl.Promise$Transformation.handleFailure(Promise.scala:444)
+	at scala.concurrent.impl.Promise$Transformation.submitWithValue(Promise.scala:435)
+	at scala.concurrent.impl.Promise$DefaultPromise.submitWithValue(Promise.scala:338)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete0(Promise.scala:285)
+	at scala.concurrent.impl.Promise$Transformation.handleFailure(Promise.scala:444)
+	at scala.concurrent.impl.Promise$Transformation.submitWithValue(Promise.scala:435)
+	at scala.concurrent.impl.Promise$DefaultPromise.submitWithValue(Promise.scala:338)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete0(Promise.scala:285)
+	at scala.concurrent.impl.Promise$Transformation.handleFailure(Promise.scala:444)
+	at scala.concurrent.impl.Promise$Transformation.submitWithValue(Promise.scala:435)
+	at scala.concurrent.impl.Promise$DefaultPromise.submitWithValue(Promise.scala:338)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete0(Promise.scala:285)
+	at scala.concurrent.impl.Promise$Transformation.handleFailure(Promise.scala:444)
+	at scala.concurrent.impl.Promise$Transformation.submitWithValue(Promise.scala:435)
+	at scala.concurrent.impl.Promise$DefaultPromise.submitWithValue(Promise.scala:338)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete0(Promise.scala:285)
+	at scala.concurrent.impl.Promise$Transformation.handleFailure(Promise.scala:444)
+	at scala.concurrent.impl.Promise$Transformation.submitWithValue(Promise.scala:435)
+	at scala.concurrent.impl.Promise$DefaultPromise.submitWithValue(Promise.scala:338)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete0(Promise.scala:285)
+	at scala.concurrent.impl.Promise$Transformation.handleFailure(Promise.scala:444)
+	at scala.concurrent.impl.Promise$Transformation.submitWithValue(Promise.scala:435)
+	at scala.concurrent.impl.Promise$DefaultPromise.submitWithValue(Promise.scala:338)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete0(Promise.scala:285)
+	at scala.concurrent.impl.Promise$Transformation.handleFailure(Promise.scala:444)
+	at scala.concurrent.impl.Promise$Transformation.submitWithValue(Promise.scala:435)
+	at scala.concurrent.impl.Promise$DefaultPromise.submitWithValue(Promise.scala:338)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete0(Promise.scala:285)
+	at scala.concurrent.impl.Promise$Transformation.handleFailure(Promise.scala:444)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:506)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619)
+	at java.base/java.lang.Thread.run(Thread.java:1447)

@@ -1,4 +1,4 @@
-[debug] [cs420-1-test] Classpath dependencies List()
-[debug] [cs420-1-test] Dependencies from configurations List(cs420-1)
-[debug] Bloop wrote the configuration of project 'cs420-1-test' to 'C:\Users\Jia Gapuz\Desktop\cs420-1\.bloop\cs420-1-test.json'
-[success] Generated .bloop\cs420-1-test.json
+[debug] [cs420-test] Classpath dependencies List()
+[debug] [cs420-test] Dependencies from configurations List(cs420)
+[debug] Bloop wrote the configuration of project 'cs420-test' to 'C:\Users\jiann\OneDrive\Desktop\cs420\.bloop\cs420-test.json'
+[success] Generated .bloop\cs420-test.json

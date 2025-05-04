@@ -88,7 +88,7 @@ class StreamOperation() {
     // hint: flatMapping, apply distinct,
     // then use either sorted, sortBy, or sortWith for sorting
     // then convert to Vector to return
-    val flattened = numbers_2d.flatten.sorted.toVector
+    val flattened = numbers_2d.flatten.distinct.sorted(Ordering[Int].reverse).toVector
     return flattened
   }
 
@@ -143,10 +143,9 @@ class StreamOperation() {
 
     // refer to averageOfAllElements_s on dealing with empty row / vector
 
-    val flattened = numbers_2d.flatten // flatMap
+    val flattened = numbers_2d.flatten
     flattened.length match {
-      // Some and None are subclasses of Option
-      case 0 => None // length of the combined array is zero
+      case 0 => None 
       case _ => Some (flattened.max)
     }
 
@@ -245,15 +244,13 @@ class StreamOperation() {
 
   /**
    * @return Array of average of each row / vector
-   *         map each row / vector to the average of its numbers that are > 10
-   *         if there are no (> 10) numbers in the row / vector, average should be None
+   * map each nnnn> 10) numbers in the row / vector, average should be None
    *         Note: each vector could be empty
    * @param
    * */
   def averageOfNumbers_gt_10_EachRow_s : Vector[Option[Double]] = {
 
     // TODO
-
     // hint: see implementation approach in maxInEachRow_s
     // add filtering for getting the numbers > 10 in the vector
     // then if there are numbers in the vector bigger than 10,
@@ -262,19 +259,16 @@ class StreamOperation() {
 
     val avgs = numbers_2d
       .map(vector => {
-        vector.nonEmpty match
-        {
-          case true => {
-            val overTen = vector.filter(_ > 10)
-            Some(overTen.sum.toDouble/overTen.size)
-          }
-          case false => None
-        }
+        val overTen = vector.filter(_ > 10)
+        if (overTen.nonEmpty)
+          Some(overTen.sum.toDouble / overTen.size)
+        else
+          None
       }).toVector
-      
+
     return avgs
 
-    Vector.empty // replace this with your implementation
+
   }
 
   // Java

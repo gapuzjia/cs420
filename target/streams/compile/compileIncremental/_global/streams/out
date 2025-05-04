@@ -20,13 +20,13 @@
 [0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(${BASE}/StreamOperation.scala)[0m
 [0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: StreamOperation[0m
 [0m[[0m[0mdebug[0m] [0m[0mcompilation cycle 1[0m
-[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to C:\Users\Jia Gapuz\Desktop\cs420-1\target\scala-2.13\classes ...[0m
-[0m[[0m[0mdebug[0m] [0m[0mReturning already retrieved and compiled bridge: C:\Users\Jia Gapuz\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala2-sbt-bridge\2.13.12\scala2-sbt-bridge-2.13.12.jar.[0m
-[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 2ae77b8 for Scala compiler version 2.13.12[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to C:\Users\jiann\OneDrive\Desktop\cs420\target\scala-2.13\classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mReturning already retrieved and compiled bridge: C:\Users\jiann\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala2-sbt-bridge\2.13.12\scala2-sbt-bridge-2.13.12.jar.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 51c4913c for Scala compiler version 2.13.12[0m
 [0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
-[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\Jia Gapuz\Desktop\cs420-1\target\scala-2.13\classes;C:\Users\Jia Gapuz\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.12\scala-library-2.13.12.jar[0m
-[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 3.5656679 s[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\jiann\OneDrive\Desktop\cs420\target\scala-2.13\classes;C:\Users\jiann\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.12\scala-library-2.13.12.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 4.0326158 s[0m
 [0m[[0m[0mdebug[0m] [0m[0mdone compiling[0m
 [0m[[0m[0mdebug[0m] [0m[0mNew invalidations:[0m
 [0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: [0m

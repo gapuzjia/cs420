@@ -1,0 +1,175 @@
+{
+    "version": "1.4.0",
+    "project": {
+        "name": "cs420-test",
+        "directory": "C:\\Users\\jiann\\OneDrive\\Desktop\\cs420",
+        "workspaceDir": "C:\\Users\\jiann\\OneDrive\\Desktop\\cs420",
+        "sources": [
+            "C:\\Users\\jiann\\OneDrive\\Desktop\\cs420\\src\\test\\scala",
+            "C:\\Users\\jiann\\OneDrive\\Desktop\\cs420\\src\\test\\scala-2.13",
+            "C:\\Users\\jiann\\OneDrive\\Desktop\\cs420\\src\\test\\scala-2",
+            "C:\\Users\\jiann\\OneDrive\\Desktop\\cs420\\src\\test\\java",
+            "C:\\Users\\jiann\\OneDrive\\Desktop\\cs420\\target\\scala-2.13\\src_managed\\test",
+            "C:\\Users\\jiann\\OneDrive\\Desktop\\cs420\\Main.scala",
+            "C:\\Users\\jiann\\OneDrive\\Desktop\\cs420\\StreamOperation.scala",
+            "C:\\Users\\jiann\\OneDrive\\Desktop\\cs420\\TestScript.scala"
+        ],
+        "dependencies": [
+            "cs420"
+        ],
+        "classpath": [
+            "C:\\Users\\jiann\\OneDrive\\Desktop\\cs420\\.bloop\\cs420\\scala-2.13\\classes",
+            "C:\\Users\\jiann\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.12\\scala-library-2.13.12.jar"
+        ],
+        "out": "C:\\Users\\jiann\\OneDrive\\Desktop\\cs420\\.bloop\\cs420",
+        "classesDir": "C:\\Users\\jiann\\OneDrive\\Desktop\\cs420\\.bloop\\cs420\\scala-2.13\\test-classes",
+        "resources": [
+            "C:\\Users\\jiann\\OneDrive\\Desktop\\cs420\\src\\test\\resources",
+            "C:\\Users\\jiann\\OneDrive\\Desktop\\cs420\\target\\scala-2.13\\resource_managed\\test"
+        ],
+        "scala": {
+            "organization": "org.scala-lang",
+            "name": "scala-compiler",
+            "version": "2.13.12",
+            "options": [
+                
+            ],
+            "jars": [
+                "C:\\Users\\jiann\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.12\\scala-library-2.13.12.jar",
+                "C:\\Users\\jiann\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-compiler\\2.13.12\\scala-compiler-2.13.12.jar",
+                "C:\\Users\\jiann\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-reflect\\2.13.12\\scala-reflect-2.13.12.jar",
+                "C:\\Users\\jiann\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\io\\github\\java-diff-utils\\java-diff-utils\\4.12\\java-diff-utils-4.12.jar",
+                "C:\\Users\\jiann\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\jline\\jline\\3.22.0\\jline-3.22.0.jar",
+                "C:\\Users\\jiann\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\net\\java\\dev\\jna\\jna\\5.13.0\\jna-5.13.0.jar"
+            ],
+            "setup": {
+                "order": "mixed",
+                "addLibraryToBootClasspath": false,
+                "addCompilerToClasspath": false,
+                "addExtraJarsToClasspath": false,
+                "manageBootClasspath": false,
+                "filterLibraryFromClasspath": false
+            },
+            "bridgeJars": [
+                "C:\\Users\\jiann\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala2-sbt-bridge\\2.13.12\\scala2-sbt-bridge-2.13.12.jar"
+            ]
+        },
+        "java": {
+            "options": [
+                
+            ]
+        },
+        "test": {
+            "frameworks": [
+                {
+                    "names": [
+                        "org.scalacheck.ScalaCheckFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.specs2.runner.Specs2Framework",
+                        "org.specs2.runner.SpecsFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.specs.runner.SpecsFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.scalatest.tools.Framework",
+                        "org.scalatest.tools.ScalaTestFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "com.novocode.junit.JUnitFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "munit.Framework"
+                    ]
+                },
+                {
+                    "names": [
+                        "zio.test.sbt.ZTestFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "weaver.framework.CatsEffect"
+                    ]
+                },
+                {
+                    "names": [
+                        "hedgehog.sbt.Framework"
+                    ]
+                }
+            ],
+            "options": {
+                "excludes": [
+                    
+                ],
+                "arguments": [
+                    
+                ]
+            }
+        },
+        "platform": {
+            "name": "jvm",
+            "config": {
+                "home": "C:\\Program Files\\Java\\jdk-24",
+                "options": [
+                    "-Duser.dir=C:\\Users\\jiann\\OneDrive\\Desktop\\cs420"
+                ]
+            },
+            "mainClass": [
+                
+            ]
+        },
+        "resolution": {
+            "modules": [
+                {
+                    "organization": "org.scala-lang",
+                    "name": "scala-library",
+                    "version": "2.13.12",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "scala-library",
+                            "path": "C:\\Users\\jiann\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.12\\scala-library-2.13.12.jar"
+                        },
+                        {
+                            "name": "scala-library",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\jiann\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.12\\scala-library-2.13.12-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.scala-lang",
+                    "name": "scala-library",
+                    "version": "2.13.12",
+                    "configurations": "optional",
+                    "artifacts": [
+                        {
+                            "name": "scala-library",
+                            "path": "C:\\Users\\jiann\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.12\\scala-library-2.13.12.jar"
+                        },
+                        {
+                            "name": "scala-library",
+                            "classifier": "sources",
+                            "path": "C:\\Users\\jiann\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\org\\scala-lang\\scala-library\\2.13.12\\scala-library-2.13.12-sources.jar"
+                        }
+                    ]
+                }
+            ]
+        },
+        "tags": [
+            "test"
+        ]
+    }
+}
